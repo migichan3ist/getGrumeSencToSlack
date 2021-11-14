@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import datetime
 
 # Slackに送る機能
-WEB_HOOK_URL = "https://hooks.slack.com/services/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"
+WEB_HOOK_URL = ""
 
 #今日の日付を取得
 DATE_TODAY = datetime.date.today()
